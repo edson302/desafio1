@@ -1,7 +1,7 @@
 <h1>Congrats Project</h1>
 <br>
 <br>
-<h2>Deploy- Podes acessar em <a href="#">Congrats</a></h2>
+<h2>Deploy- Podes acessar em <a href="https://congratsblue.netlify.app/">Congrats</a></h2>
 <br>
 <br>
 <h2>Tecnologias usadas</h2>
